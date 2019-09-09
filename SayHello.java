@@ -1,9 +1,9 @@
 public class SayHello{
 	public static void main(String[] arge){
 		System.out.println("Bellow is the function of sayhello");
-		SayHello(0);
+		SayHello();
 	}
-	public static void SayHello(int sum){
+	public static void SayHello(){
 		System.out.println("say hello!" + Sum());
 	}
 	public static int Sum(){
