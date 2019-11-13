@@ -8,7 +8,7 @@ import javax.swing.*;
  * @author: Mr.Huang
  * @date: 2019/11/6 5:00 下午
  */
-public class LoginForm {
+ class LoginForm {
     public static void main(String[] args) {
         // 创建 JFrame 实例
         JFrame frame = new JFrame("Login Example");
