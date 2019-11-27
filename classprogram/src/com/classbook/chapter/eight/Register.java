@@ -2,7 +2,7 @@ package com.classbook.chapter.eight;
 import javax.swing.*;
 
 public class Register {
-    public Register(){
+    public static void main(String[] args) {
         // 创建 JFrame 实例
         JFrame frame = new JFrame("register Example");
         // Setting the width and height of frame

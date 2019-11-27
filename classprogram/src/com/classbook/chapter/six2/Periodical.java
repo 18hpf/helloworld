@@ -9,7 +9,7 @@ public class Periodical extends ReadingMatterImpl {
     //覆盖父类方法
     @Override
     public void Effect() {
-        System.out.println("期刊...真不知道能干嘛了");
+        System.out.println("期刊...");
     }
     //返回该类描述的读物
     public String getName() {
