@@ -1,4 +1,4 @@
-package com.wechat.wecharform;
+package com.work.wechat.wecharform;
 
 import javax.swing.*;
 

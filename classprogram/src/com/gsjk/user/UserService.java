@@ -10,7 +10,7 @@ public interface UserService {
    * @Description: to register the new user
    * @Param: [userInfo]
    * @return: com.Result
-   * @Author: Mr.Cheng
+   * @Author: Mr.Huang
    * @Date: 2019/10/9 3:58 下午
    */
    public Result register(UserInfo userInfo);
